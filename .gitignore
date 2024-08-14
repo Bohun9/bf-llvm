@@ -1,0 +1,9 @@
+.cache/
+bf-llvm
+compile_commands.json
+
+examples/*
+!examples/*.bf
+!examples/*.ll
+
+
